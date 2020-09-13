@@ -92,7 +92,7 @@ class AddCurrency extends StatelessWidget {
       ),
       bottomNavigationBar: Padding(
         padding: EdgeInsets.only(
-          bottom: Get.height * 0.11,
+          bottom: Get.height * 0.09,
           left: Get.width * 0.07,
           right: Get.width * 0.07,
         ),
