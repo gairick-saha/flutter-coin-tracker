@@ -14,7 +14,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return GetMaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Currency Tracker',
+      title: 'Crypto Currency Tracker',
       theme: ThemeData(
         primaryColor: Color(0xff294198),
         accentColor: Color(0xffFA9D29),
