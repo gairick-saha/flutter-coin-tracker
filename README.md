@@ -1,6 +1,7 @@
 # cryptoTracker
 
-A new Flutter project.
+A new Flutter project. It is an Demo application without full functionality.
+This application is made only for testing Speedwave.co.in
 
 ## Getting Started
 
